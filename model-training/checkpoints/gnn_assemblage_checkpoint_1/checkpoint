@@ -1,0 +1,2 @@
+model_checkpoint_path: "/output/gnn_assemblage_checkpoint_1/graph-embedding-pair-40000"
+all_model_checkpoint_paths: "/output/gnn_assemblage_checkpoint_1/graph-embedding-pair-40000"
